@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/frontend/src/directive" title="-----插件管理" extension="" presentableText="" tooltipTitle="" icon=""
+           textColor="" backgroundColor=""/>
+     <tree path="/frontend/src/directive/index.ts" title="插件注册"/>
+     <tree path="/frontend/src/directive/permission.ts" title="权限插件"/>
+     <tree path="/frontend/src/store" title="---------共享状态管理"/>
+     <tree path="/frontend/src/store/system.ts" title="系统数据"/>
+     <tree path="/frontend/src/store/user.ts" title="用户数据"/>
+     <tree path="/frontend/src/router" title="--------路由管理"/>
+     <tree path="/frontend/src/router/index.ts" title="自动路由填充配置"/>
+ </trees>
